@@ -60,8 +60,8 @@ These results are from the current experiment and should be verified against the
 ## Project Resources
 
 - **Google Drive:** https://drive.google.com/drive/folders/1a0Z_xTWt4xHZLUio5KmDdNXLWWqpCnRa?usp=drive_link
-- **Final Report:** [INSERT LINK OR FILE PATH]
-- **Presentation Video:** [INSERT LINK WHEN AVAILABLE]
+- **Final Report:**
+- **Presentation Video:**
 
 ## Limitations
 
